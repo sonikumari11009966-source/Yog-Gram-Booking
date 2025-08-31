@@ -1,6 +1,5 @@
-# 🌿 Patanjali Yog Gram – Landing Page
-
-This is a demo **Landing Page** for Patanjali Yog Gram Booking, built with **Next.js + TailwindCSS + Framer Motion + Lucide Icons**.
+# 🌿 Patanjali Yog Gram – Booking
+Landindingemonjali Yog Gram Booking, builtFramer**Next.js + TailwindCSS + Framer Motion + Lucide Icons**.
 
 ---
 
@@ -50,7 +49,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 
 Your landing page will be live at:  
 ```
-https://yoggram-landing.vercel.app
+https://yoggram-Lan.vercel.app
 ```
 
 ---
@@ -64,4 +63,4 @@ Landing page screenshot (add here if needed).
 ## 📩 Contact
 
 For official Patanjali Yog Gram bookings, please visit:  
-👉 [https://yoggram.divyayoga.com](https://yoggram.divyayoga.com)
+👉 [https://yoggram.com](https://yoggram.com)
